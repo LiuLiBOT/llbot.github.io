@@ -1,6 +1,13 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title":"琉璃BOT文档",
+    "subTitle":"QQ第三方BOT琉璃官方文档",
+    "avatarUrl":"http://q.qlogo.cn/headimg_dl?dst_uin=3776681257&spec=640&img_type=jpg",
+    "GMEEK_VERSION":"last",
+    "singlePage":["about"],
+    "email":"llbot@lcqne.cn",
+    "startSite":"12/31/2024",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>" ,
+    "bottomText":"未经允许禁止转载"
+    
 }
