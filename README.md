@@ -1,5 +1,5 @@
-# 琉璃BOT文档 :link: https://LiuLiBOT.github.io/llbot.github.io 
-### :page_facing_up: [0](https://LiuLiBOT.github.io/llbot.github.io/tag.html) 
+# 琉璃BOT文档 :link: llbot.lcqne.cn
+### :page_facing_up: [0](llbot.lcqne.cn) 
 ### :speech_balloon: 0 
 ### :hibiscus: 0 
 ### :alarm_clock: 2024-12-31 04:42:22 
